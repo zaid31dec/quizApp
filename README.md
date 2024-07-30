@@ -22,7 +22,7 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Screen Shot
 ![image](https://github.com/user-attachments/assets/024efc08-7511-4088-907f-814f362faa26)
-**Summary**
+### Summary Of The Quiz
 ![image](https://github.com/user-attachments/assets/c6d06d96-8344-4660-b3f5-aafbc5b47c93)
 
 
